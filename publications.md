@@ -12,11 +12,10 @@ You can also browse my <a href="http://zzs.one/scholar" target="_blank">Google S
 <br /> 
 
 #### Conference papers
-- **Zhishuai Zhang**, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille, "Robust Face Detection via Learning Small Faces on Hard Images", Winter Conference on Applications of
-Computer Vision (WACV) 2020 ([PDF](https://arxiv.org/pdf/1811.11662.pdf))
-- Adam Kortylewski, Qing Liu, Huiyu Wang, **Zhishuai Zhang**, Alan Yuille, "Compositional Convolutional Networks For Robust Object Classification under Occlusion", Winter Conference on Applications of
-Computer Vision (WACV) 2020 ([PDF](https://arxiv.org/pdf/1905.11826.pdf))
+- **Zhishuai Zhang**, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille, "Robust Face Detection via Learning Small Faces on Hard Images", Winter Conference on Applications of Computer Vision (WACV) 2020 ([PDF](https://arxiv.org/pdf/1811.11662.pdf))
+- Adam Kortylewski, Qing Liu, Huiyu Wang, **Zhishuai Zhang**, Alan Yuille, "Compositional Convolutional Networks For Robust Object Classification under Occlusion", Winter Conference on Applications of Computer Vision (WACV) 2020 ([PDF](https://arxiv.org/pdf/1905.11826.pdf))
 - Yingwei Li, Song Bai, Yuyin Zhou, Cihang Xie, **Zhishuai Zhang**, Alan Yuille, "Learning Transferable Adversarial Examples via Ghost Networks", AAAI Conference on Artificial Intelligence (AAAI) 2020 ([PDF](https://arxiv.org/pdf/1812.03413.pdf))
+- **Zhishuai Zhang**, Yuyin Zhou, Wei Shen, Elliot Fishman, Alan Yuille, "Lesion Detection by Efficiently Bridging 3D Context", International Workshop on Machine Learning in Medical Imaging (MLMI) 2019 ([PDF](https://cs.jhu.edu/~alanlab/Pubs19/zhang2019lesion.pdf))
 - Cihang Xie, **Zhishuai Zhang**, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity",  Conference on Computer Vision and Pattern Recognition (CVPR) 2019 ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
 - Siyuan Qiao, Wei Shen, **Zhishuai Zhang**, Bo Wang, Alan Yuille, "Deep Co-Training for Semi-Supervised Image Recognition", European Conference on Computer Vision (ECCV) 2018 ([PDF](https://arxiv.org/pdf/1803.05984.pdf))
 - Siyuan Qiao, **Zhishuai Zhang**, Wei Shen, Bo Wang, Alan Yuille, "Gradually Updated Neural Networks for Large-Scale Image Recognition", International Conference on Machine Learning (ICML) 2018 ([PDF](https://arxiv.org/pdf/1711.09280.pdf))
