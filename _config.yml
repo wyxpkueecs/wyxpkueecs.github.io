@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Zhishuai Zhang
+title: Wentao Zhang
 
 # Short description of your site
 description: Personal Homepage
@@ -40,9 +40,9 @@ avatar: "/img/zhishuai.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Zhishuai Zhang
-  email: "zhshuai.zhang@gmail.com"
-  github: bairdzhang    # eg. daattali
+  name: Wentao Zhang
+  email: "wentao_zhang@pku.edu.cn"
+  github: https://github.com/zwt233/    # eg. daattali
   linkedin: zhishuai 
 
 # Select which links to show in the footer
@@ -98,7 +98,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "China/Shanghai"
+timezone: "China/Beijing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
