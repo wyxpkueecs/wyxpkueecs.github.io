@@ -14,7 +14,7 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Wentao Zhang
+title: Yexin Wang
 
 # Short description of your site
 description: Personal Homepage
@@ -24,12 +24,12 @@ description: Personal Homepage
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Publications: "publications"
+#  Publications: "publications"
 #   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/zwt.jpg"
+avatar: "/img/wyx.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -40,9 +40,9 @@ avatar: "/img/zwt.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Wentao Zhang
-  email: "wentao_zhang@pku.edu.cn"
-  github: https://github.com/zwt233/    # eg. daattali
+  name: Yexin Wang
+  email: "yexinwang@pku.edu.cn"
+  github: https://github.com/wyxpkueecs/    # eg. daattali
 #   linkedin: zhishuai 
 
 # Select which links to show in the footer
